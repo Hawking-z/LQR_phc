@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VIN Pin=C1-2
+Removed Pin From Net: NetName=VIN Pin=EC1-1
+Removed Pin From Net: NetName=VIN Pin=U1-1
+Added Pin To Net: NetName=12V Pin=C1-2
+Added Pin To Net: NetName=12V Pin=EC1-1
+Added Pin To Net: NetName=12V Pin=U1-1
+Added Room: Name=Æ½ºâ³µÇý¶¯°å

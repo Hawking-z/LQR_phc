@@ -1,0 +1,6 @@
+Added Component: Designator=S1(SS-12D10)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=12V Pin=S1-1
+Added Pin To Net: NetName=VIN Pin=S1-2
+Added Member To Class: ClassName=平衡车驱动板 Member=Component S1 SS-12D10
+Added Room: Name=平衡车驱动板

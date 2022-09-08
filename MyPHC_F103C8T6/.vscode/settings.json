@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "robot.h": "c",
+        "cvector.h": "c",
+        "circular_queue.h": "c",
+        "bluetooth.h": "c",
+        "bsp_delay.h": "c",
+        "motor.h": "c",
+        "tim.h": "c",
+        "mini-printf.h": "c",
+        "usart.h": "c",
+        "oled.h": "c",
+        "balancecalc.h": "c",
+        "bsp_softreset.h": "c",
+        "mpu6050.h": "c",
+        "math.h": "c",
+        "pid.h": "c"
+    }
+}

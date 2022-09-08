@@ -1,0 +1,6 @@
+/build/
+/.vscode/*.log
+nul.d
+null.d
+/MyPHC_F103C8T6/.vscode/*.log
+/MyPHC_F103C8T6/build

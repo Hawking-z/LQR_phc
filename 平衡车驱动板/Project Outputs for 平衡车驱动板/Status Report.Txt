@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [平衡车驱动板.PrjPcb]
+   Generated File[平衡车驱动板.TXT]
+   Generated File[平衡车驱动板.LDP]
+   Generated File[平衡车驱动板.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:44:24 On 2022/8/23

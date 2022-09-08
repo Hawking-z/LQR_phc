@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Desktop\pcb_learning\平衡车驱动板\平衡车驱动板.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.98
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.98
